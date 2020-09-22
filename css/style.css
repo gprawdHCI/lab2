@@ -5,8 +5,10 @@ body {
 }
 h1 {
     font-weight: normal;
-    font-size: 84pt;
+    font-size: 60pt;
     font-family: Verdana, Arial, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 p {
     font-weight: bold;
