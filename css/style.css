@@ -3,3 +3,17 @@ body {
     background-color:#060636;
     color: #9b9bbe
 }
+h1 {
+    font-weight: strong;
+    font-size: 84pt;
+    font-family: Verdana, Arial, sans-serif;
+  }
+p {
+    font-weight: strong;
+    font-family: Verdana, Arial, sans-serif;
+  }
+label {
+    font-weight: strong;
+    font-size: 24pt;
+    font-family: Verdana, Arial, sans-serif;
+  }
