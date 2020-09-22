@@ -4,16 +4,16 @@ body {
     color: #9b9bbe
 }
 h1 {
-    font-weight: strong;
+    font-weight: normal;
     font-size: 84pt;
     font-family: Verdana, Arial, sans-serif;
 }
 p {
-    font-weight: strong;
+    font-weight: bold;
     font-family: Verdana, Arial, sans-serif;
 }
 label {
-    font-weight: strong;
+    font-weight: bold;
     font-size: 24pt;
     font-family: Verdana, Arial, sans-serif;
 }
@@ -28,7 +28,4 @@ input {
 form {
     padding-top: 1.5em;
     margin: 1em;
-}
-#button {
-    border-radius: 10px;
 }
