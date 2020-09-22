@@ -23,6 +23,9 @@ input {
     margin: 1em 0;
     box-sizing: border-box;
     border: none;
-    background-color: #9b9bbe
-    ; 
+    background-color: #9b9bbe; 
+}
+form {
+    padding-top: 1.5em;
+    margin: 1em;
 }
