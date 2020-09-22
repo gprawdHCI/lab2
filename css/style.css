@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color:#060636;
-    color: #9b9bbe
+    color: #145285
 }
 h1 {
     font-weight: normal;
@@ -10,7 +10,9 @@ h1 {
 }
 p {
     font-weight: bold;
+    color: #9b9bbe;
     font-family: Verdana, Arial, sans-serif;
+    margin-bottom : 20px;
 }
 label {
     font-weight: bold;
@@ -29,3 +31,10 @@ form {
     padding-top: 1.5em;
     margin: 1em;
 }
+input[type=submit] {
+    background-color: #1c72b8;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
